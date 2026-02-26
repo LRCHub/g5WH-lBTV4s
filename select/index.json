@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋焦がれ",
+  "base_artist": "声にならないよ",
+  "createdAt": "2026-02-26T04:28:16.697354Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋焦がれ",
+      "artist": "声にならないよ",
+      "has_synced": false,
+      "path": "select/pl_01_恋焦がれ_声にならないよ.txt"
+    }
+  ]
+}
